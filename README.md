@@ -1,6 +1,6 @@
 # SEOHub
 ## Trusted website catalog
 
-##Streaming
+## Streaming
 
 ⭐ **[rezka](https://rezka.nl/)** - Movies / TV / Anime - Фильмы / Сериалы / Мультфильмы / Аниме / ТВ Шоу
