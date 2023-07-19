@@ -1,5 +1,5 @@
 # SEOHub
-## Trusted website catalog
+Trusted website catalog
 
 ## Streaming
 
