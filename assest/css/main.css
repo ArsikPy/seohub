@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body {
+    background: #fafafa;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.main-text, .category {
+    margin: 3vh;
+}
+
+.main-text  h1 {
+    font-weight: 700;
+    font-size: 19px;
+}
