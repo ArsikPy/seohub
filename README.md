@@ -3,8 +3,7 @@ Trusted website catalog
 
 ## Streaming
 
-⭐ **[rezka](https://rezka.nl/)** - Movies / TV / Anime - Фильмы / Сериалы / Мультфильмы / Аниме / ТВ Шоу
-
+⭐ **[rezka](https://rezka.nl/)** - Movies / TV / Anime 
 ## SEOHub site placed
 **[SEOHub](https://seohub.pages.dev/)** - SEO / Hub / Catalog / Place #1
 
