@@ -10,4 +10,4 @@ Trusted website catalog
 
 **[SEOHub](https://github.com/ArsikPy/seohub/)** - GitHub / Dev / Source code 
 
-**[SEOHub](https://zesty-marzipan-28fe42.netlify.app)** - SEO / Hub / Catalog / Place #2
+**[SEOHub](https://seohubb.netlify.app/)** - SEO / Hub / Catalog / Place #2
