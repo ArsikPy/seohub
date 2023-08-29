@@ -4,6 +4,9 @@ Trusted website catalog
 ## Streaming
 
 ⭐ **[rezka.nl](https://rezka.nl/)** - Movies / TV / Anime 
+
+## Development
+**[WebQubic](https://webqubic.pages.dev/)**
 ## SEOHub site placed
 **[SEOHub](https://seohub.pages.dev/)** - SEO / Hub / Catalog / Place #1
 
