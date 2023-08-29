@@ -6,7 +6,8 @@ Trusted website catalog
 ⭐ **[rezka.nl](https://rezka.nl/)** - Movies / TV / Anime 
 
 ## Development
-**[WebQubic](https://webqubic.pages.dev/)**
+**[WebQubic](https://webqubic.pages.dev/)** - Portfolio / Dev / Catalog
+
 ## SEOHub site placed
 **[SEOHub](https://seohub.pages.dev/)** - SEO / Hub / Catalog / Place #1
 
